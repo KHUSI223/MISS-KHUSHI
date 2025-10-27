@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import streamlit as st
 import time
 import threading
